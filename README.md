@@ -122,10 +122,10 @@
  [•] YOUTUBE : Kz.tutorial 
  [•] URL : ( https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ )
  [•] WHATSAP 081283186765
- [•] URL : ( https://wa.me/628992176733 )
+ [•] URL : ( https://wa.me/6281283186765 )
  [•] GITHUB  : OMPEDO2
- [•] URL : ( https://github.com/kZtotorial )
- [•] TELEGRM : KZtutorial
+ [•] URL : ( https://github.com/OMPEDO2 )
+ [•] TELEGRM : OMPEDO2
  [•] URL : ( https://t.me/KZtutorial )
   ╚═════════╦═══════════════════════════════════════════════════════════════════╝
   ╔═════════╩═══════════════════════════════════════════════════════════════════╗
