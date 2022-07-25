@@ -19,7 +19,7 @@
 [•] pkg install curl          ║
  ║╚═══════════════════════════╝
  ║╔═══════════════════════════════════════════════════════════════╗
-[•] git clone --depth=1 https://github.com/mayTermux/myTermux.git ║
+[•] git clone https://github.com/mayTermux/myTermux.git ║
  ║╚═══════════════════════════════════════════════════════════════╝
  ║╔═══════════════════════════╗ 
 [•] cd myTermux               ║
